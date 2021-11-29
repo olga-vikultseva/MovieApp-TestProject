@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="home_toolbar_title">Главная</string>
+    <string name="try_again_button">Попробовать снова</string>
+    <string name="genre_section_header_text">Жанры</string>
+    <string name="movie_section_header_text">Фильмы</string>
+    <string name="movie_year_placeholder">Год: %s</string>
+    <string name="movie_rating_placeholder">Рейтинг: %s</string>
+    <string name="connection_error_message">Пожалуйста, проверьте ваше соединение.</string>
+    <string name="general_error_message">Что-то пошло не так. Пожалуйста, попробуйте позже.</string>
+</resources>
